@@ -22,6 +22,16 @@ For example, use the 'Name ID' to retrieve artist styles, themes, moods, etc. us
 
 If you're using our APIs outside of the Cloudinary sample application, we provide the following tool to help create your own API signature since all requests require a combination of the API Key and API Signature  - [http://developer.rovicorp.com/siggen](http://developer.rovicorp.com/siggen)
 
+If you need to calculate the signature value outside of our web-based tool, you can perform the following - execute the MD5 function on the combination of the following three strings:
+
+* API key - 7d9vkau5knchkpa4z9pkcg7d
+* API secret - mmj58xRfZw
+* The Unix time. Unix time is a timestamp supported in most development environments and is generally defined as the number of seconds since January 1, 1970 00:00:00 GMT. A five-minute wiggle is permitted on either side of the current timestamp to allow for clock drift.
+
+Perform the calculation at the time of each request to be sure it's within a five-minute window of the server time.
+
+You can use the following node.js function - Math.floor\(new Date\(\) / 1000\) to create a UNIX epoch timestamp and then concatenate it with our API Key/Secret. Use a MD5 hash on the entire string to create your signature.
+
 Alternatively, use the following JavaScript example that combines the API Key/Secret with the MD5 library here - [http://developer.rovicorp.com/files/md5\_2.js](http://developer.rovicorp.com/files/md5_2.js) .
 
     function genSig\(\) {
@@ -39,8 +49,6 @@ Alternatively, use the following JavaScript example that combines the API Key/Se
     return = hex\_md5\(apikey + secret + utc\);
 
 }
-
-You can also use the following node.js function - Math.floor\(new Date\(\) / 1000\) to create a UNIX epoch timestamp and then concatenate it with our API Key/Secret.  Use a MD5 hash on the entire string to create your signature.
 
 Although the majority of the APIs that will be needed for your use-case are already a part of the Cloudinary application, we're providing complete API documentation below on all of our various APIs.
 
