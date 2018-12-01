@@ -8,9 +8,7 @@
 
 You may know of us from our former name, AMG/Rovi, and a website that was formerly a property of ours which features our music metadata \([allmusic.com](https://www.allmusic.com)\).
 
-We're providing unlimited access \(500 requests/sec, no daily limit\) to the same music metadata powering services such as Spotify, Pandora, Apple Music, etc.
-
-You can use the API Key/Secret below which is also included in the Cloudinary sample app.
+We're providing unlimited access \(500 requests/sec, no daily limit\) to the same music metadata powering services such as Spotify, Pandora, Apple Music, etc.  You can use the API Key/Secret below -
 
 API Key - 7d9vkau5knchkpa4z9pkcg7d
 
