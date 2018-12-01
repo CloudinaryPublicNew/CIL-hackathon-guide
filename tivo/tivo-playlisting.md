@@ -18,7 +18,7 @@ For example, here's an API request for the 'Christmas' playlist you'll see in th
 
 [https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas) 
 
-**T**he prototype includes the following ‘Filters’ : Artist/Album Tones & Themes, Original Release Year, Song Popularity, Artist, Song Genre. All imagery and factual metadata is provided by TiVo Music Metadata.  Use the following cheat sheets for a complete listing of genre/subgenre/mood/theme metadata.
+The prototype includes the following ‘Filters’ : Artist/Album Tones & Themes, Original Release Year, Song Popularity, Artist, Song Genre. All imagery and factual metadata is provided by TiVo Music Metadata.  Use the following cheat sheets for a complete listing of genre/subgenre/mood/theme metadata.
 
 **Cheat Sheet** - Master Genre/Subgenre/Style List
 
