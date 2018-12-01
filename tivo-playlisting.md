@@ -42,7 +42,7 @@ Use the below link and choose File&gt;Download As&gt;CSV to import a CSV into yo
 
 ​[https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK\_u9G2gk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing)​
 
-**Automated Playlists \(create a playlist based on artist, album themes, moods, tones, etc\)**
+**Automated Playlists \(create a playlist based on artist, album themes, tones, genres, etc\)**
 
 Click the “+” in the top left of the screen to create anew carousel
 
