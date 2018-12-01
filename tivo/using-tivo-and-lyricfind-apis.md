@@ -20,7 +20,7 @@ TiVo Music API Console - this can be used to quickly preview all of our differen
 
 For example, use the 'Name ID' to retrieve artist styles, themes, moods, etc. using the 'Name' API \(scroll toward the end of the IO-Docs page\) - Wayne Shorter = Name ID MN0000250435 \(for 'include' enter musicStyles,moods,themes\).
 
-If you're using our APIs outside of the Cloudinary sample application, we provide the following tool to help create your own API signature since all requests require a combination of the API Key and API Signature  - [http://developer.rovicorp.com/siggen](http://developer.rovicorp.com/siggen)
+We provide the following tool to help create your own API signature since all requests require a combination of the API Key and API Signature  - [http://developer.rovicorp.com/siggen](http://developer.rovicorp.com/siggen)
 
 If you need to calculate the signature value outside of our web-based tool, you can perform the following - execute the MD5 function on the combination of the following three strings:
 
