@@ -1,6 +1,6 @@
 # Capitol Royale 2018 Hackathon Guide
 
-![](.gitbook/assets/capitol360-dec.jpg)
+![](.gitbook/assets/capitolroy-image.jpg)
 
 **When**: December 1st - 2nd, 2018   
 **Where**: Capitol Records – 1750 Vine St, Los Angeles, CA 90028
