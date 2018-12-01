@@ -8,39 +8,33 @@ We're providing an interactive Playlisting Prototype and select assets from our 
 * Tones, Themes, Moods, and Similar Artists
 * Artist & UMG album artwork
 
-{% embed url="https://discovery-beta-admin-0.digitalsmiths.net/console/login" %}
+[https://discovery-demo.digitalsmiths.net/console/populations/tivo-music/carousels](https://discovery-demo.digitalsmiths.net/console/populations/tivo-music/carousels)
 
 User: CapitalHackathon
 
-Password: CapitalJune2018
+Password: CapitalDec2018
 
-**Editorial & Automated Playlist Creation**
+For example, here's an API request for the 'Christmas' playlist you'll see in the playlisting console \(note the 'MW' ID is our album ID you can use with our Rovi Cloud Services API to retrieve album imagery and other associated information\) - 
 
-Navigation Pane: Select Carousels from the left navigation pane
+[https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas) 
 
-Editorial Playlists: Click the “+” in the top left of the to create a newcarousel
+The prototype includes the following ‘Filters’ : Artist/Album Tones & Themes, Original Release Year, Song Popularity, Artist, Song Genre. All imagery and factual metadata is provided by TiVo Music Metadata.  Use the following cheat sheets for a complete listing of genre/subgenre/mood/theme metadata.
 
-1. Provide an alphanumeric path name which will be part of the URL to
+**Cheat Sheet** - Master Genre/Subgenre/Style List
 
-   call this carousel’s API. This can simply be the Name of the carousel
+Use the below link and choose File&gt;Download As&gt;CSV to import a CSV into your SQL/Mongo DB for a master list of all TiVo Music genres, subgenres, and styles - this can come in handy to create a genre/subgenre/style map or discovery experience.
 
-   with no spaces or special characters
+​[https://docs.google.com/spreadsheets/d/1PgrGIifacbLokkh7mZgjU2JIi1zUGdVA0HMx4wlJIGs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1PgrGIifacbLokkh7mZgjU2JIi1zUGdVA0HMx4wlJIGs/edit?usp=sharing)​
 
-2. Select the type “Editorial”
+**Cheat Sheet** - Master Moods List
 
-![page4image3865824](blob:https://cloudinary.gitbook.io/721d717b-3c42-40ca-b711-f2d1d04d6db3)
+​[https://docs.google.com/spreadsheets/d/1K\_o6rKLHZ5zTkGbxLRw9ERXzpX3SfnKQSjKIKKaQHtM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1K_o6rKLHZ5zTkGbxLRw9ERXzpX3SfnKQSjKIKKaQHtM/edit?usp=sharing)​
 
-3. Provide the name for your carousel. This will be the label for it when it is displayed. Click OK.
+**Cheat Sheet** - Master Themes List
 
-4. In the “Search” tab, search for a series or title you know, find it in the results, and drag it into the right window. Repeat a few times.
+​[https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK\_u9G2gk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing)​
 
-5. Hover over the sliders on the right pane to understand what each means. Try to slide a few of them over and note how the results in the Live Preview change order.
-
-![page5image3855744](blob:https://cloudinary.gitbook.io/a07aec2f-f332-47ec-a47e-fd035f3e6006)
-
-6. Click the disk icon on the top right of the screen to save it. You’ve created an Editorial Carousel.
-
-**Automated Playlists**
+**Automated Playlists \(create a playlist based on artist, album themes, moods, tones, etc\)**
 
 Click the “+” in the top left of the screen to create anew carousel
 
@@ -65,8 +59,6 @@ Click the “+” in the top left of the screen to create anew carousel
 8. Click in the “Values” field to see what options are available to you to
 
    select. As you start typing, the values will be searched against and limit the results. Select the value\(s\) you want.
-
-![page5image5906752](blob:https://cloudinary.gitbook.io/ec18828b-4c9b-43c0-bf6f-c1c4634681f9)
 
 9. View the Live Preview in the right pane. Use the arrows in the bottom of the pane to scroll through results.
 
@@ -96,11 +88,7 @@ Click the “+” in the top left of the screen to create anew carousel
 1. Click the drop down, “Toggle Info” icon at the top of the center pane to enter delete mode.
 2. Click on the pathway“sd/tivo-music/carousels/...”
 
-![page7image5907872](blob:https://cloudinary.gitbook.io/b75cd4ff-c38a-4ec6-9e39-4d37cdac5717)
-
 3. With a JSON or XML web browser plug-in, you will be able to download and view the TiVo music metadata for each playlist
-
-![page7image5913920](blob:https://cloudinary.gitbook.io/9431c8d9-c692-4d34-8a78-44977fba9c23)
 
 **UI Screen Testing**
 
@@ -122,13 +110,5 @@ Click the “+” in the top left of the screen to create anew carousel
 
    come out of delete mode.
 
-**Prototype Limitations**
 
-1. Navigation Pane: “ItemLists”, “Publish” & “Problems” do not work
-2. Carousel: “Smart” Carousels do not work
-3. Current TiVo Music Metadata Customers may be familiar with a much
-
-   greater array of metadata elements for ‘Filters’. 
-
-Note: the prototype is intentionally limited to the following ‘Filters’: Album/ArtistTones & Themes, Original Release Year, Song Popularity, Artist, Song Genre. All imagery and factual metadata is provided by TiVo Music Metadata
 
