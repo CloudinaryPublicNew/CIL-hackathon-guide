@@ -2,7 +2,7 @@
 
 * [Capitol Royale 2019 Hackathon Guide](README.md)
 
-## Capitol Royale 2018 Hackathon Guide <a id="capitol360-innovation-center-hackathon-guide"></a>
+## Capitol Royale 2019 Hackathon Guide <a id="capitol360-innovation-center-hackathon-guide"></a>
 
 * [Arrival Guide / Parking](capitol360-innovation-center-hackathon-guide/arrival-guide-parking.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
