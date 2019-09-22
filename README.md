@@ -1,8 +1,8 @@
-# Capitol 360 Innovation Center Hackathon Guide
+# Capitol Royale 2019 Hackathon Guide
 
-![](.gitbook/assets/eventbritehackathonwhackfest.jpg)
+![](.gitbook/assets/capitolroy-image.jpg)
 
-**When**: June 2-3  11am Saturday - 6:30pm Sunday  
+**When**: November 16th-17th, 2019   
 **Where**: Capitol Records – 1750 Vine St, Los Angeles, CA 90028
 
 Designed to foster innovative ideas and bridge the gap between content creators and the tech community, this 2- day Hackathon will bring together software developers, and acclaimed producers, songwriters, and influencers in a challenge to incubate new waves of music-related products, services, and content.
@@ -15,12 +15,13 @@ All participants will have access to the state-of-the-art Capitol Recording Stud
 
 ## Steps to Success
 
+* [ ] Like Capitol360's [Facebook Page](https://www.facebook.com/CapitolMusic360/) and join the [Capitol360 Hackers Group](https://www.facebook.com/groups/527780350991187/)
 * [ ] Get a [Cloudinary](https://cloudinary.com/signup?utm_source=CMW&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon-Guide&utm_content=Signup_CMW) Account and Credentials
 * [ ] Visit Cloudinary and 7Digital's Table at the Event to get add-on UPGRADE: [http://bit.ly/cmw-upgrade](http://bit.ly/cmw-upgrade)​ and additional API Keys
-* [ ] Join our[ Slack Channel](https://join.slack.com/t/cloudinarydevelopers/shared_invite/enQtMzcyODQ3NTMxMzAxLWIwNzlmZTQxMjNhYmZhOGNmNWY3NjExMGU1M2RmODAzOWIzMTY4YjhkOWQ2YzE0ZGIwNWM2NDk1ZTE5ZTdhOWU) - [http://bit.ly/cloudinary-developers-slack](http://bit.ly/cloudinary-developers-slack)
-* [ ] Register yourself for the Capitol360 Hackathon on [Devpost](https://capitol360-hackathon-6634.devpost.com/) \*\*All submissions must be posted on Devpost by 12:30pm on June 3
+* [ ] **Join our** [**Slack Channel Here: https://bit.ly/2QlChwB**](https://bit.ly/2QlChwB)\*\*\*\*
+* [ ] Register yourself for the Capitol360 Hackathon on [Devpost](https://capitol360-hackathon.devpost.com/) **All submissions must be posted on Devpost by 12:30pm on December 2nd**
 
-The first-ever Capitol Innovation Labs Hackathon brings together coders, developers, hackers, artists, designers and tech specialists for 24 hours of intense work, debates, brainstorming, innovation, camaraderie and fun! Each team is invited to formulate solutions to problems and create new pathways to move the music industry forward
+The Capitol360 Innovation Center Hackathon brings together coders, developers, hackers, artists, designers and tech specialists for 24 hours of intense work, debates, brainstorming, innovation, camaraderie and fun! Each team is invited to formulate solutions to problems and create new pathways to move the music industry forward.
 
 We're hackers too, so we know your time at the Hackathon is limited. That's why we've developed this guide to help you harness our technology to realize your ideas in the most efficient way possible.
 

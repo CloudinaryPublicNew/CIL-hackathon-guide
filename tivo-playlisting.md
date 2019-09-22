@@ -16,7 +16,15 @@ Password: CapitalDec2018
 
 For example, here's an API request for the 'Christmas' playlist you'll see in the playlisting console \(note the 'MW' ID is our album ID you can use with our Rovi Cloud Services API to retrieve album imagery and other associated information\) - 
 
-[https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas) 
+**Christmas** - [https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/christmas) 
+
+Here are a few other off-the-shelf examples however you're welcome to create your own version in our playlisting console - 
+
+**New** - [https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/new](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/new)
+
+**Popular** - [https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/popular](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/popular)
+
+**Recommended** - [https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/recommended](https://discovery-demo.digitalsmiths.net/sd/tivo-music/carousels/recommended)
 
 The prototype includes the following ‘Filters’ : Artist/Album Tones & Themes, Original Release Year, Song Popularity, Artist, Song Genre. All imagery and factual metadata is provided by TiVo Music Metadata.  Use the following cheat sheets for a complete listing of genre/subgenre/mood/theme metadata.
 
@@ -34,7 +42,7 @@ Use the below link and choose File&gt;Download As&gt;CSV to import a CSV into yo
 
 ​[https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK\_u9G2gk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1OMA091NxeAFpOUAfPBU6AoP4iixNg3y1lDFK_u9G2gk/edit?usp=sharing)​
 
-**Automated Playlists \(create a playlist based on artist, album themes, moods, tones, etc\)**
+**Automated Playlists \(create a playlist based on artist, album themes, tones, genres, etc\)**
 
 Click the “+” in the top left of the screen to create anew carousel
 
