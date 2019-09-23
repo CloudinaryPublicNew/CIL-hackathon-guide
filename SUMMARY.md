@@ -12,10 +12,6 @@
   * [Immersive Wayne Shorter Catalog](capitol360-innovation-center-hackathon-guide/umg-challenges-dec18/immersive-wayne-shorter-catalog.md)
   * [Build an A&R research tool](capitol360-innovation-center-hackathon-guide/umg-challenges-dec18/build-an-a-and-r-research-tool.md)
 * [Hackathon Event Flow](capitol360-innovation-center-hackathon-guide/hackathon-event-flow.md)
-
-## Blueprints
-
-* [Discover Music](blueprints/discover-music.md)
 * [Industry Guides](workshops/README.md)
   * [Music Industry 101](workshops/music-industry-101-sept.-11th-2018.md)
 
