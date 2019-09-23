@@ -1,20 +1,21 @@
 # Arrival Guide / Parking
 
-## API Training Workshop: November 6th
+## Bose API Workshop: November 15th
 
 | **Where** | Capitol Records - 1750 Vine St, Los Angeles, CA 90028 |
 | :--- | :--- |
-| **Webinar** | Zoom Link TBD |
-| **When** | 10am - 2pm    |
+| **Location** | Conference Room Details To Come |
+| **When** | 10am - 2pm   \(Workshops\)    |
+|  | 2pm - 6pm     \(Open Hacking Time\) |
+|  | 6:30pm+         \(Kickoff Party\) |
 
-## Hackathon: December 1st - 2nd
+## Hackathon: November 16th - 17th
 
-| **Where** | Capitol Records - 1750 Vine St, Los Angeles, CA 90028 |
+| **Where** | Capitol Records - 1750 Vine St, Los Angeles, CA 90028 + Kimpton Everly Hotel |
 | :--- | :--- |
-| **Registration** | Saturday December 1st, 2018 at 10AM  |
-| **Mixer** | Sunday December 2nd, 2018 @ 5PM |
+| **Registration** | Saturday November 16, 2019 at 9:30AM  \(Coast Lot @ Capitol Records\) |
+| **Pitches** | Sunday November 17, 2019 at 2:30PM, followed by Award Ceremony |
 | **Key Contacts** | Ching-Ching Chen, 407-921-3213 |
-|  | Travis Laurendine, 504-377-6130 |
 
 ## Parking
 

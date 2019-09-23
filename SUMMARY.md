@@ -5,6 +5,7 @@
 ## Capitol Royale 2019 Hackathon Guide <a id="capitol360-innovation-center-hackathon-guide"></a>
 
 * [Arrival Guide / Parking](capitol360-innovation-center-hackathon-guide/arrival-guide-parking.md)
+* [Nov'19 Challenges](capitol360-innovation-center-hackathon-guide/nov19-challenges.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
   * [Verizon 5G Challenge](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/verizon-5g-challenge.md)
   * [Dec'18 Prizes](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/challenge-and-prizes.md)
