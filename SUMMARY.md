@@ -5,7 +5,9 @@
 ## Capitol Royale 2019 Hackathon Guide <a id="capitol360-innovation-center-hackathon-guide"></a>
 
 * [Arrival Guide / Parking](capitol360-innovation-center-hackathon-guide/arrival-guide-parking.md)
-* [Nov'19 Challenges](capitol360-innovation-center-hackathon-guide/nov19-challenges.md)
+* [Nov'19 Challenges](capitol360-innovation-center-hackathon-guide/nov19-challenges/README.md)
+  * [Music on the Move Challenge, Presented by SDL & FordDev](capitol360-innovation-center-hackathon-guide/nov19-challenges/music-on-the-move-challenge-presented-by-sdl-and-forddev.md)
+  * [Bose AR Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/bose-ar-challenge.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
   * [Verizon 5G Challenge](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/verizon-5g-challenge.md)
   * [Dec'18 Prizes](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/challenge-and-prizes.md)
@@ -15,6 +17,11 @@
 * [Hackathon Event Flow](capitol360-innovation-center-hackathon-guide/hackathon-event-flow.md)
 * [Industry Guides](workshops/README.md)
   * [Music Industry 101](workshops/music-industry-101-sept.-11th-2018.md)
+
+## Bose AR
+
+* [Build for Bose AR Enabled Wearables](bose-ar/build-for-bose-ar-enabled-wearables.md)
+* [Bose Developer Portal and Tutorials](bose-ar/bose-developer-portal-and-tutorials.md)
 
 ## Cloudinary
 
@@ -35,32 +42,7 @@
   * [Webtask & Cloudinary](cloudinary/cloudinary-guide/webtask-and-cloudinary.md)
 * [Cloudinary API: Workshop Deck](cloudinary/cloudinary-api-workshop-deck.md)
 
-## 7Digital
-
-* [UMG Catalog / 7digital API](7digital/using-7digital-api.md)
-* [API Specifics](7digital/api-specifics.md)
-* [Streaming Audio Files](7digital/streaming-audio-files.md)
-* [Catalog Metadata Available](7digital/catalog-metadata-available.md)
-* [API Error Codes & Messages](7digital/api-error-codes-and-messages.md)
-
-## Tivo
-
-* [Using TiVo & Lyricfind APIs’](tivo/using-tivo-and-lyricfind-apis.md)
-* [TiVo Playlisting](tivo-playlisting.md)
-
 ## ConsenSys
 
 * [ConsenSys Hackathon Developer Guide](consensys/consensys-hackathon-developer-guide.md)
-
-## Spotify
-
-* [Spotify API](spotify/spotify-api.md)
-
-## Qloo
-
-* [Qloo Developer Guide](qloo/qloo-api-guide.md)
-
-## Microsoft
-
-* [Using Microsoft APIs](microsoft/using-microsoft-apis.md)
 
