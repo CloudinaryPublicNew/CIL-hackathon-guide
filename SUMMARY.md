@@ -8,6 +8,7 @@
 * [Nov'19 Challenges](capitol360-innovation-center-hackathon-guide/nov19-challenges/README.md)
   * [Music on the Move Challenge, Presented by SDL & FordDev](capitol360-innovation-center-hackathon-guide/nov19-challenges/music-on-the-move-challenge-presented-by-sdl-and-forddev.md)
   * [Bose AR Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/bose-ar-challenge.md)
+  * [Bose AR Platform and SDKs](capitol360-innovation-center-hackathon-guide/nov19-challenges/bose-ar-platform-and-sdks.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
   * [Verizon 5G Challenge](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/verizon-5g-challenge.md)
   * [Dec'18 Prizes](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/challenge-and-prizes.md)

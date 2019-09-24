@@ -1,6 +1,6 @@
 # Capitol Royale 2019 Hackathon Guide
 
-![](.gitbook/assets/capitolroy-image.jpg)
+![](.gitbook/assets/gitbookbanner-page-001.jpg)
 
 **When**: November 15th-17th, 2019   
 **Where**: Capitol Records – 1750 Vine St, Los Angeles, CA 90028 + Kimpton Everly Hotel
