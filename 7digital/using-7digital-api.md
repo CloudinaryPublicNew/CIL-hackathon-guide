@@ -79,7 +79,7 @@ The following table lists the endpoints that we have made available for this hac
       <td style="text-align:left">Artist browse</td>
       <td style="text-align:left">Browse the catalog for artist names that start with supplied text string</td>
       <td
-      style="text-align:left">​<a href="http://api.7digital.com/1.2/artist/browse?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;letter=ki">GET artist/browse</a>​</td>
+      style="text-align:left">&#x200B;<a href="http://api.7digital.com/1.2/artist/browse?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;letter=ki">GET artist/browse</a>&#x200B;</td>
         <td
         style="text-align:left">letter={text}</td>
     </tr>
@@ -87,28 +87,28 @@ The following table lists the endpoints that we have made available for this hac
       <td style="text-align:left">Artist search</td>
       <td style="text-align:left">Search the catalog for artists that match a supplied text string</td>
       <td
-      style="text-align:left">​<a href="http://api.7digital.com/1.2/artist/search?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;q=john">GET artist/search</a>​</td>
+      style="text-align:left">&#x200B;<a href="http://api.7digital.com/1.2/artist/search?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;q=john">GET artist/search</a>&#x200B;</td>
         <td
         style="text-align:left">q={text}</td>
     </tr>
     <tr>
       <td style="text-align:left">Artist releases</td>
       <td style="text-align:left">Returns a list of streamable releases for a specific artist</td>
-      <td style="text-align:left">​<a href="http://api.7digital.com/1.2/artist/releases?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;artistId=1448&amp;usageTypes=adsupportedstreaming">GET artist/releases</a>​</td>
+      <td style="text-align:left">&#x200B;<a href="http://api.7digital.com/1.2/artist/releases?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;artistId=1448&amp;usageTypes=adsupportedstreaming">GET artist/releases</a>&#x200B;</td>
       <td
       style="text-align:left">
-        <p>&artistId={int}</p>
-        <p>&usageTypes=adsupportedstreaming</p>
+        <p>&amp;artistId={int}</p>
+        <p>&amp;usageTypes=adsupportedstreaming</p>
         </td>
     </tr>
     <tr>
       <td style="text-align:left">Artist toptracks</td>
       <td style="text-align:left">Returns a list of streamable tracks for a specific artist</td>
-      <td style="text-align:left">​<a href="http://api.7digital.com/1.2/artist/toptracks?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;artistId=1448&amp;usageTypes=adsupportedstreaming">GET artist/toptracks</a>​</td>
+      <td style="text-align:left">&#x200B;<a href="http://api.7digital.com/1.2/artist/toptracks?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;artistId=1448&amp;usageTypes=adsupportedstreaming">GET artist/toptracks</a>&#x200B;</td>
       <td
       style="text-align:left">
-        <p>&artistId={int}</p>
-        <p>&usageTypes=adsupportedstreaming</p>
+        <p>&amp;artistId={int}</p>
+        <p>&amp;usageTypes=adsupportedstreaming</p>
         </td>
     </tr>
     <tr>
@@ -117,32 +117,32 @@ The following table lists the endpoints that we have made available for this hac
         <p>Search the catalog for releases</p>
         <p>that match a supplied text string</p>
       </td>
-      <td style="text-align:left">​<a href="http://api.7digital.com/1.2/release/search?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;q=john&amp;usageTypes=adsupportedstreaming">GET release/search</a>​</td>
+      <td style="text-align:left">&#x200B;<a href="http://api.7digital.com/1.2/release/search?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;q=john&amp;usageTypes=adsupportedstreaming">GET release/search</a>&#x200B;</td>
       <td
       style="text-align:left">
-        <p>&q={text}</p>
-        <p>&usageTypes=adsupportedstreaming</p>
+        <p>&amp;q={text}</p>
+        <p>&amp;usageTypes=adsupportedstreaming</p>
         </td>
     </tr>
     <tr>
       <td style="text-align:left">Release tracks</td>
       <td style="text-align:left">Returns a list of streamable tracks for a specific release</td>
-      <td style="text-align:left">​<a href="http://api.7digital.com/1.2/release/tracks?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;releaseId=5726299&amp;usageTypes=adsupportedstreaming">GET release/tracks</a>​</td>
+      <td style="text-align:left">&#x200B;<a href="http://api.7digital.com/1.2/release/tracks?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;releaseId=5726299&amp;usageTypes=adsupportedstreaming">GET release/tracks</a>&#x200B;</td>
       <td
       style="text-align:left">
-        <p>&releaseId={int}</p>
-        <p>&usageTypes=adsupportedstreaming</p>
+        <p>&amp;releaseId={int}</p>
+        <p>&amp;usageTypes=adsupportedstreaming</p>
         </td>
     </tr>
     <tr>
       <td style="text-align:left">Track search</td>
       <td style="text-align:left">Search the catalog for releases that match a supplied text string</td>
       <td
-      style="text-align:left">​<a href="http://api.7digital.com/1.2/track/search?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;q=john&amp;usageTypes=adsupportedstreaming">GET track/search</a>​</td>
+      style="text-align:left">&#x200B;<a href="http://api.7digital.com/1.2/track/search?shopId=2020&amp;oauth_consumer_key=7d4vr6cgb392&amp;q=john&amp;usageTypes=adsupportedstreaming">GET track/search</a>&#x200B;</td>
         <td
         style="text-align:left">
-          <p>&q={text}</p>
-          <p>&usageTypes=adsupportedstreaming</p>
+          <p>&amp;q={text}</p>
+          <p>&amp;usageTypes=adsupportedstreaming</p>
           </td>
     </tr>
     <tr>
@@ -151,7 +151,7 @@ The following table lists the endpoints that we have made available for this hac
       <td
       style="text-align:left"><b>See later page</b>
         </td>
-        <td style="text-align:left">&trackId={int}</td>
+        <td style="text-align:left">&amp;trackId={int}</td>
     </tr>
   </tbody>
 </table>
