@@ -1,6 +1,6 @@
 # Bose AR Platform and SDKs
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LesOucCTEU7xgjkHcd2%2F-LesYxnC61vsnyILGy09%2F-LesZ_ZhiuCImu7lk1O6%2FBose-ar-components.png?alt=media&token=28a02660-5756-4123-8d3f-0243c66f9386)Bose AR
+![Bose AR](../.gitbook/assets/bose-ar-components.png)
 
 Bose AR is connected-device _**audio**_ augmented reality platform. Bose AR-enabled devices are equipped with a sensor package to enable astonishing experiences.
 

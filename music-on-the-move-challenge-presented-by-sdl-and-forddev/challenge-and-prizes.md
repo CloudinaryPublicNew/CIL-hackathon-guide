@@ -1,4 +1,4 @@
-# Music on the Move Challenge, Presented by SDL & FordDev
+# Challenge & Prizes
 
 _**Music on the Move Challenge, Presented by SDL & FordDev**_
 
@@ -31,24 +31,4 @@ Challenge participants will:
 **PRIZES**
 
 ●     The winning team will take home a grand prize of $7,500 cash PLUS support for continuedSDL integration of the winning app.
-
-\*\*\*\*
-
-**DOCUMENTATION**
-
-●     All of the official SDL documentation can be **Viewed** [here](https://smartdevicelink.com/consortium/), including:
-
-○     Account Creation
-
-○     AppID Generation
-
-○     Development Guides
-
-○     Emulator
-
-○     HMI Templates
-
-●     You can view current SDL enabled apps forUS market [here](https://owner.ford.com/how-tos/sync-technology/all/applink/applink-app-catalog.html)
-
-
 

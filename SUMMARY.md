@@ -8,7 +8,6 @@
 * [Nov'19 Challenges](capitol360-innovation-center-hackathon-guide/nov19-challenges/README.md)
   * [Music on the Move Challenge, Presented by SDL & FordDev](capitol360-innovation-center-hackathon-guide/nov19-challenges/music-on-the-move-challenge-presented-by-sdl-and-forddev.md)
   * [Bose AR Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/bose-ar-challenge.md)
-  * [Bose AR Platform and SDKs](capitol360-innovation-center-hackathon-guide/nov19-challenges/bose-ar-platform-and-sdks.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
   * [Verizon 5G Challenge](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/verizon-5g-challenge.md)
   * [Dec'18 Prizes](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/challenge-and-prizes.md)
@@ -22,7 +21,17 @@
 ## Bose AR
 
 * [Build for Bose AR Enabled Wearables](bose-ar/build-for-bose-ar-enabled-wearables.md)
+* [Bose AR Platform and SDKs](bose-ar/bose-ar-platform-and-sdks.md)
+* [Setup Requirements](bose-ar/setup-requirements.md)
 * [Bose Developer Portal and Tutorials](bose-ar/bose-developer-portal-and-tutorials.md)
+* [Submission Timeline](bose-ar/submission-timeline.md)
+
+## SDL & FordDev <a id="music-on-the-move-challenge-presented-by-sdl-and-forddev"></a>
+
+* [Challenge & Prizes](music-on-the-move-challenge-presented-by-sdl-and-forddev/challenge-and-prizes.md)
+* [Documentation](music-on-the-move-challenge-presented-by-sdl-and-forddev/untitled.md)
+* [About SDL & FORDDEV](music-on-the-move-challenge-presented-by-sdl-and-forddev/about-sdl-and-forddev.md)
+* [Judging Criteria](music-on-the-move-challenge-presented-by-sdl-and-forddev/judging-criteria.md)
 
 ## Cloudinary
 
