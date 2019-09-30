@@ -1,6 +1,8 @@
 # Music on the Move Challenge, Presented by SDL & FordDev
 
-_**Music on the Move Challenge, Presented by SDL & FordDev**_
+![](../../.gitbook/assets/sdl-logo.png)
+
+_**Music on the Move Challenge, Presented by**_ [_**SDL**_](https://smartdevicelink.com) _**&**_ [_**FordDev**_](https://developer.ford.com/)_\*\*\*\*_
 
 How can APIs evolve music listening in the car to become an immersive lifestyle that delivers just-in-time content, personalized experiences, and connect fans with all aspects of their favorite artists?
 
