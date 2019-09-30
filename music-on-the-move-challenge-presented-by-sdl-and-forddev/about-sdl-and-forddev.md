@@ -1,8 +1,14 @@
 # About SDL & FORDDEV
 
+![](../.gitbook/assets/sdl-logo-alone.png)
+
 **About SDL**
 
 [SDL](https://smartdevicelink.com/) is the industry standard for open source in-vehicle connectivity. For automakers and suppliers, SDL adoption broadens the choices for customers in how they connect and control their smartphones while on the move. SDL is the open source software on which the Ford AppLink platform is built. Industry adoption of SDL provides significant benefits to developers interested in connecting their apps for safer in-vehicle use.
+
+
+
+![](../.gitbook/assets/fordev-logo-alone.png)
 
 **About Ford Developer Program**
 
