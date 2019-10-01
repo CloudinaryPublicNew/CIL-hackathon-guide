@@ -6,8 +6,8 @@
 
 * [Arrival Guide / Parking](capitol360-innovation-center-hackathon-guide/arrival-guide-parking.md)
 * [Nov'19 Challenges](capitol360-innovation-center-hackathon-guide/nov19-challenges/README.md)
-  * [Music on the Move Challenge, Presented by SDL & FordDev](capitol360-innovation-center-hackathon-guide/nov19-challenges/music-on-the-move-challenge-presented-by-sdl-and-forddev.md)
   * [Bose AR Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/bose-ar-challenge.md)
+  * [Music on the Move Challenge, Presented by SDL & FordDev](capitol360-innovation-center-hackathon-guide/nov19-challenges/music-on-the-move-challenge-presented-by-sdl-and-forddev.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
   * [Verizon 5G Challenge](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/verizon-5g-challenge.md)
   * [Dec'18 Prizes](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/challenge-and-prizes.md)
@@ -17,6 +17,10 @@
 * [Hackathon Event Flow](capitol360-innovation-center-hackathon-guide/hackathon-event-flow.md)
 * [Industry Guides](workshops/README.md)
   * [Music Industry 101](workshops/music-industry-101-sept.-11th-2018.md)
+
+## UMG Sandbox License
+
+* [UMG Sandbox License](umg-sandbox-license/umg-sandbox-license.md)
 
 ## Bose AR
 

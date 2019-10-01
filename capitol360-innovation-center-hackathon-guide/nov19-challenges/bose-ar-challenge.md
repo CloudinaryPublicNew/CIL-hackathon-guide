@@ -24,9 +24,8 @@ Three key areas to explore include:
 
 **PRIZES**
 
-* All teams will need to launch app in TestFlight in 30 days after the code jam to be judged. 
 * 2 teams will be awarded $5000 at Capitol Royale
-* The 2 winning teams will be awarded an additional $5000 upon launch in the App Store 30 days after completion of Bose Certification.
+* The 2 winning teams will be awarded an additional $5000 upon launch in either the iOS or Android App Store 90 days after completion of Capitol Royale event.
 
 
 

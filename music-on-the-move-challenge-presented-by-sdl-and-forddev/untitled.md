@@ -2,19 +2,19 @@
 
 **DOCUMENTATION**
 
-●     All of the official SDL documentation can be **Viewed** [here](https://smartdevicelink.com/consortium/), including:
+●     All of the official SDL documentation can be viewed [here](https://smartdevicelink.com/docs/), including:
 
-○     Account Creation
+      ○     Account Creation
 
-○     AppID Generation
+      ○     AppID Generation
 
-○     Development Guides
+      ○     Development Guides
 
-○     Emulator
+      ○     Emulator
 
-○     HMI Templates
+       ○     HMI Templates
 
-●     You can view current SDL enabled apps forUS market [here](https://owner.ford.com/how-tos/sync-technology/all/applink/applink-app-catalog.html)
+●     You can view current SDL enabled apps for US market [here](https://owner.ford.com/how-tos/sync-technology/all/applink/applink-app-catalog.html).
 
 \*\*\*\*
 

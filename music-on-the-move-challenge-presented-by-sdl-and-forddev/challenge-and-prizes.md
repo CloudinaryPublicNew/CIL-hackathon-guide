@@ -30,5 +30,5 @@ Challenge participants will:
 
 **PRIZES**
 
-●     The winning team will take home a grand prize of $7,500 cash PLUS support for continuedSDL integration of the winning app.
+●     The winning team will take home a grand prize of $7,500 cash PLUS support for continued SDL integration of the winning app.
 
