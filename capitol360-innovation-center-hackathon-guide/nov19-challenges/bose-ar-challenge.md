@@ -8,9 +8,9 @@ Three key areas to explore include:
 * Augmented Reality
 * Streaming Music
 
-**Motown Museum Walking Tour + Musical Moments:** Create a walking tour that will immerse consumers in historical facts about the block that that original Motown studio is located. This tour will use the GPS to pinpoint exact locations of meetings, where old landmarks used to be \(like the green couch on the porch\), and more. There could also be an option to buy merchandise from the artists that are explained along the tour.
+**Hollywood Walking Tour + Musical Moments:** Create a walking tour that will immerse consumers in historical facts around locations in Hollywood. This tour will use the GPS to pinpoint exact locations of meetings, where old landmarks used to be \(like the green couch on the porch\), and more. There could also be an option to buy merchandise from the artists that are explained along the tour.
 
-**Spatial awareness games driven by Motown content:** Break down a track by instrument and have players walk toward the strings, vocals, drums, etc.
+**Spatial awareness games driven by Musical content:** Break down a track by instrument and have players walk toward the strings, vocals, drums, etc.
 
 **Additional information on artists the consumer is listening to:** Mic listens to song you’re listening to, and gives you information about the artist \(e.g.when they’re in your area on tour using the GPS\).
 
