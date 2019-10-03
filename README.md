@@ -20,7 +20,7 @@ All participants will have access to the state-of-the-art Capitol Recording Stud
 * [ ] Like Capitol360's [Facebook Page](https://www.facebook.com/CapitolMusic360/) and join the [Capitol360 Hackers Group](https://www.facebook.com/groups/527780350991187/)
 * [ ] Get a [Cloudinary](https://cloudinary.com/signup?utm_source=CMW&utm_medium=Gitbook&utm_campaign=Evangelism&utm_term=Hackathon-Guide&utm_content=Signup_CMW) Account and Credentials
 * [ ] Visit Cloudinary + UMG Table at the Event to get add-on UPGRADE: [http://bit.ly/cmw-upgrade](http://bit.ly/cmw-upgrade)​ and additional API Keys
-* [ ] Register yourself for the Capitol360 Hackathon on [Devpost](https://capitol-hackathon-nov-2019.devpost.com/?preview_token=FbsaO4IxKNtwfPp3bjsgIPEpQwVYrOCeEchsMGphuRI%3D) **All submissions must be posted on Devpost by 1:00pm on November 17th** 
+* [ ] Register yourself for the Capitol360 Hackathon on [Devpost](https://capitol-hackathon-nov-2019.devpost.com/) **All submissions must be posted on Devpost by 1:00pm on November 17th** 
 
 The Capitol360 Innovation Center Hackathon brings together coders, developers, hackers, artists, designers and tech specialists for 24 hours of intense work, debates, brainstorming, innovation, camaraderie and fun! Each team is invited to formulate solutions to problems and create new pathways to move the music industry forward.
 
