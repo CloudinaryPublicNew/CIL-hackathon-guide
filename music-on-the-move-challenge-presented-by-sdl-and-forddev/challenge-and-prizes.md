@@ -14,7 +14,7 @@ If you have new and unique ideas on how SDL can empower Capitol artists to step 
 
 Challenge participants will:
 
-●     Have the chance to win a grand prize of $7,500 cash PLUS support for integrating winning app.
+●     Have the chance to win a grand prize of $10,000 cash PLUS support for integrating winning app.
 
 ●     Get unprecedented access to the top technology teams from automakers such as Ford and other SDL adopters.
 
