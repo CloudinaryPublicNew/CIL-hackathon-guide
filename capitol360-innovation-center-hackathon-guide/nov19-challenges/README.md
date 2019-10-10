@@ -12,5 +12,5 @@ Our category challenges for November are below but all ideas at the intersection
 
   Today, one feature of [SDL](www.smartdevicelink.com) APIs is to enable streaming music from favorites such as iHeartRadio and Pandora in millions of vehicles around the world.  The SDL _Music on the Move_ challenge wants to see how our innovative developer community can take advantage of the unique opportunity cars offer. Not just bringing music into the car...but the ability to actually bring fans to the music!  By connecting with additional API providers or your own platform, how can you deliver compelling 360 artist experiences, navigate listeners to artist events, drive merchandise sales, and more!
 
-[Apply for your seat](https://capitol360.wufoo.com/forms/m1f12jl70w0h9lh/) and chance to win the $7,500 1st place prize now! Spots are limited and will fill up quickly.
+[Apply for your seat](https://capitol360.wufoo.com/forms/m1f12jl70w0h9lh/) and chance to win the $10,000 1st place prize now! Spots are limited and will fill up quickly.
 
