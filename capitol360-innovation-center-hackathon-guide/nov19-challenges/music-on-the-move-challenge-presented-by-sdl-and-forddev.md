@@ -50,8 +50,6 @@ Challenge participants will:
 
       ○     HMI Templates
 
-●     You can view current SDL enabled apps for US market [here](https://owner.ford.com/how-tos/sync-technology/all/applink/applink-app-catalog.html).
-
 
 
 **ABOUT SDL & FORDEV**
