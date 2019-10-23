@@ -1,22 +1,27 @@
-# Music on the Move Challenge, Presented by SDL & FordDev
+# Music That Moves YOU Challenge, Presented by SDL & FordDev
 
 ![](../../.gitbook/assets/sdl-logo.png)
 
-_**Music on the Move Challenge, Presented by**_ [_**SDL**_](https://smartdevicelink.com) _**&**_ [_**FordDev**_](https://developer.ford.com/)_\*\*\*\*_
+_**Music That Moves YOU Challenge, Presented by**_ [_**SDL**_](https://smartdevicelink.com) _**&**_ [_**FordDev**_](https://developer.ford.com/)_\*\*\*\*_
 
-How can APIs evolve music listening in the car to become an immersive lifestyle that delivers just-in-time content, personalized experiences, and connect fans with all aspects of their favorite artists?
+How can today’s technology evolve the music experience in the car from discovering new artists and music, to purchasing concert tickets and merchandise, to immersive lifestyle experiences that deliver just-in-time content, personalized offers, and can connect fans with all aspects of their favorite artists? 
 
-SDL APIs already enable streaming music from favorites such as iHeartRadio and Pandora. The SDL _Music on the Move_ challenge wants to see where our innovative developer community can take drivers by connecting with additional API providers or your own solutions to deliver compelling 360 artist experiences not just by bringing audio in to the car but also harnessing the unique opportunity to actually navigate listeners to the artists through events, merchandise, and more!
+The _**Music That Moves YOU**_ challenge wants to see how our innovative developer community can take advantage of the unique opportunities’ cars offer. Not just delivering music to listeners in the car...but the actual ability to bring fans to _the music!_  
 
-SDL enables app developers to connect their content in the vehicle, extending the command and control capabilities from the app directly in to the vehicle screens and controls. No code needs to be embedded in the vehicle and all of the UI is simplified through the use of templates, which also ensures that distracted driver guidelines are not a concern.
+_**Music That Moves YOU**_ challenges participants to envision how radio listening, concert experiences, curated special events, and pop up merch stores can be created enhanced, and delivered through the use of APIs from cutting edge companies including Ticketmaster, iHeartMedia and Arrive. These top brands will provide participants unprecedented access to their APIs and the project which weaves the most innovative experience together with Connected Travel and [SDL APIs](https://smartdevicelink.com/docs/) will win the grand prize of $12,000!
 
-Music industry leaders such as iHeartRadio, Slacker Radio \(now LiveXLive\) and Pandora have been streaming in cars using SDL for years and are joined today by innovative services like Dash Radio. Not just for streaming music, SDL enables productivity through apps like WebEx and Waze, and connects Alexa users in Ford and Toyota vehicles.
+**Music that Moves YOU Challenge Partners:**
 
-If you have new and unique ideas on how SDL can empower Capitol artists to step across the lines between in-car listening and live interaction, auto industry giants such as Ford, Toyota and Subaru want you to join this challenge!
+* Vehicle APIs: SDL
+* Voice commerce: Connected Travel
+* Parking: Arrive
+* Radio: iHeartMedia
+* Ticketing: Ticketmaster
+* Merchandise: Shopify
 
 Challenge participants will:
 
-●     Have the chance to win a grand prize of $10,000 cash PLUS support for integrating winning app.
+●     Have the chance to win a grand prize of $12,000 cash PLUS support for integrating winning app.
 
 ●     Get unprecedented access to the top technology teams from automakers such as Ford and other SDL adopters.
 
@@ -32,13 +37,17 @@ Challenge participants will:
 
 **PRIZES**
 
-●     The winning team will take home a grand prize of $10,000 cash PLUS support for continued SDL integration of the winning app.
+● Grand Prize: $12,000 PLUS 20-hours of remote support for continued integration of the winning app.
+
+● 2nd Place: $2,000 PLUS up to 5 Pairs of Tickets to a show of the winner’s choosing at the iHeartRadio Theater in LA. Recent performers include Elton John, Bastille, the Chainsmokers, Trisha Yearwood, Lizzo and Tyga.
+
+● 3rd Place: $1,000 PLUS 5 iPad Air 2’s and 5 Amazon Echo Dot’s
 
 \*\*\*\*
 
 **DOCUMENTATION**
 
-●     All of the official SDL documentation can be viewed [here](https://smartdevicelink.com/docs/), including:
+●  All of the official SDL documentation can be viewed [here](https://smartdevicelink.com/docs/), including:
 
       ○     Account Creation
 
@@ -50,6 +59,11 @@ Challenge participants will:
 
       ○     HMI Templates
 
+●  **Ticketmaster:** [**https://developer.ticketmaster.com/products-and-docs/apis/getting-started/**](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/)
+
+[**https://developer.ticketmaster.com/support/terms-of-use/**](https://developer.ticketmaster.com/support/terms-of-use/)
+
+● **Arrive -** [**https://developer.arrive.com**](https://developer.arrive.com)   ****  
 
 
 **ABOUT SDL & FORDEV**
