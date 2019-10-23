@@ -2,6 +2,8 @@
 
 ![](../../.gitbook/assets/sdl-logo.png)
 
+![](../../.gitbook/assets/group-logo-connected-travel.png)
+
 _**Music That Moves YOU Challenge, Presented by**_ [_**SDL**_](https://smartdevicelink.com) _**&**_ [_**FordDev**_](https://developer.ford.com/)_\*\*\*\*_
 
 How can today’s technology evolve the music experience in the car from discovering new artists and music, to purchasing concert tickets and merchandise, to immersive lifestyle experiences that deliver just-in-time content, personalized offers, and can connect fans with all aspects of their favorite artists? 
