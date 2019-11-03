@@ -49,7 +49,7 @@ Hacking Continues Overnight \(Kimpton\)
 
 \*\*\*\*
 
-**SUNDAY, DECEMBER 2**
+**SUNDAY, NOVEMBER 17**
 
 _HACKERS_
 
