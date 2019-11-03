@@ -4,57 +4,48 @@
 _Note this Event Flow is subject to change, please check back regularly for updates_
 {% endhint %}
 
-FRIDAY, NOVEMBER 30
+**FRIDAY, NOVEMBER 15**
 
-_HACKERS \(Verizon 5G Challenge Participants Only\)_
+_HACKERS \(optional\)_
 
-RYOT Workshop Day \(RYOT Studios\)
+Capitol Records Tower - 9th Floor + Gogerty Conference Rooms 
 
-9am Breakfast
+10:00am API Workshops 
 
-10:00am Kickoff with Q+A \(engineering, what is 5G?, creative brief\)
+* Bose Unity Spatial Audio Workshop
+* Bose iOS Workshop 
+* Cloudinary Workshop
+* Dolby IO Workshop
 
-12:00pm Brainstorm share-out \(informal\)
+1:00pm+ Office Hours / Brainstorm / Open Hacking
 
-3:00pm-6:00pm Office Hours- Unity, Audio, 3D Generalist
+6:00pm End of day wrap up
 
-9:00pm End of day wrap up
+7:00pm KICKOFF ARTIST SHOWCASE at the AVALON
 
-
-
-SATURDAY, DECEMBER 1
+**SATURDAY, NOVEMBER 16**
 
 _HACKERS_
 
-_All day Engineer on-hand for help for 5G_
+9:30AM – Registration \(Coast Lot Entrance\)
 
-10:00AM – Registration \(Main Lot Entrance\)
+10:00AM – Music Industry 101 \(Drew Thomas CMG\) \(Studio B\)
 
-10:30AM – Music Industry 101 \(Drew Thomas CMG\) \(Spotlight Stage\)
+10:30AM – API Workshops / Mentor Meetings \(Studio B\)
 
-11:00AM – Unity Workshop \(Dan Miller XR Evangelist\) \(Spotlight Stage\)
+* UMG Sandbox
+* Ford, Connected Travel, Arrive, Ticketmaster, iHeart 
+* bandsintown
+* HYPNO
+* TBD Bose + Spin / Dolby IO / Cloudinary Recap
 
-11:20AM – Spotify Workshop \(Spotlight Stage\)
+1:00PM – Welcome / Event Kick-off \(Studio A\)
 
-11:40AM – Sandbox License API Workshop \(7digital, Cloudinary, TiVo, Qloo, LyricFind\) \(Spotlight Stage\)
+1:30PM – Idea Pitches / Hacking Commences \(Kimpton\)
 
-12:00PM – Web 3 Applications in Music \(ConsenSys / Ujo\) \(Spotlight Stage\)
+7:00 PM – Dinner \(Kimpton\)
 
-1:00PM – Welcome / Event Kick-off
-
-1:15PM – Marc Byers \(Motown\)
-
-1:30PM – Verizon to introduce JAMESDAVIS / 5G Challenge
-
-1:45PM – Idea Pitches \(Spotlight Stage\)
-
-2:30 PM – Mentor Fair \(Argyle Lot\)
-
-4:30 PM – UX Focus Groups \(Spaces\)
-
-7:00 PM – Dinner \(Spaces\)
-
-Hacking Continues Overnight \(Spaces\)
+Hacking Continues Overnight \(Kimpton\)
 
 \*\*\*\*
 
@@ -62,31 +53,21 @@ Hacking Continues Overnight \(Spaces\)
 
 _HACKERS_
 
-7:30 AM – Breakfast \(Spaces\)
+7:30 AM – Breakfast \(Kimpton\)
 
-9:00 AM – Testing on live 5G in the neighborhood to be announced \(downtown LA\) \(thru 11:30am\)
+10:00 AM – Pitching Workshop \(Kimpton\)
 
-10:00 AM – Pitching Workshop \(Spotlight Stage\)
+12:15PM – Lunch \(Kimpton\)
 
-12:00PM – Project Submissions \(DevPost\)
+1:00PM – Project Submissions \(DevPost\)
 
-12:15PM – Lunch \(Courtyard\)
+2:30 PM – Demo Pitches \(Studio B\)
 
-2:15 PM – Demo Fair & Judging \(Argyle Lot\)
-
-3:10PM – JAMESDAVIS Performance \(Spotlight Stage\)
-
-3:30 PM – Finalist Pitches \(Spotlight Stage\)
-
-4:15 PM – Award Ceremony \(Spotlight Stage\)
+4:00 PM – Award Ceremony \(Studio B\)
 
 _OPTIONAL PROGRAMMING_
 
-10:30AM – Music & Gen Z Panel \(Courtyard Stage\)
+Checkout our Website if you want to checkout any of the conference panels, performances, and programming throughout the weekend.  
 
-11:15AM – Investment Panel \(Courtyard Stage\)
-
-1:00PM – NJOMZA Performance \(Spotlight Stage\)
-
-1:20PM – gBETA Accelerator Pitches \(Spotlight Stage\)
+www.capitolroyale.com 
 
