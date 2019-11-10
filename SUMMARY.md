@@ -9,7 +9,7 @@
   * [Bose AR Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/bose-ar-challenge.md)
   * [Music That Moves YOU Challenge, Presented by SDL & FordDev](capitol360-innovation-center-hackathon-guide/nov19-challenges/music-on-the-move-challenge-presented-by-sdl-and-forddev.md)
   * [Dolby IO Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/dolby-io-challenge.md)
-  * [HYPNO Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/hypno-challenge.md)
+  * [Hypno Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/hypno-challenge.md)
   * [Cloudinary Challenge](capitol360-innovation-center-hackathon-guide/nov19-challenges/cloudinary-challenge.md)
 * [Dec'18 Challenges](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/README.md)
   * [Verizon 5G Challenge](capitol360-innovation-center-hackathon-guide/dec18-umg-challenges/verizon-5g-challenge.md)
