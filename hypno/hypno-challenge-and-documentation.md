@@ -4,7 +4,7 @@ We believe the future of music is highly visual — a future where music is seen
 
 Our culture is increasingly powered by cameras and content, so how can we help artists \(and fans\) leverage these tools to make music more visual? How can cameras expand the studios where music is made? How can cameras evolve with social platforms where music is shared?
 
-In this challenge, Hypno invites the developer community to its instant camera API, which mixes photos and videos with music and special effects in real-time. Our technology makes it easy for artists to shoot and share mini music videos, for example, and for fans to participate and contribute videos of their own. We're excited to see how the developer community uses Hypno to empower the next generation of artists... and shape the future of music.
+In this challenge, Hypno invites the developer community to its [instant camera API](https://instant.hypno.com/), which mixes photos and videos with music and special effects in real-time. Our technology makes it easy for artists to shoot and share mini music videos, for example, and for fans to participate and contribute videos of their own. We're excited to see how the developer community uses Hypno to empower the next generation of artists... and shape the future of music.
 
 ## Prizes
 
