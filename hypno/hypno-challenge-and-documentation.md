@@ -48,11 +48,11 @@ Hypno scripts are written in javascript and we provide an IDE called Nyx for aut
 
 [Nyx / Hypno script API documentation](https://hackathon.hypno.com/hypno/doc/modules/_hypno_.hypno.html)
 
-### Libhypno Static Library and Sample Xcode Project
+### Hypno Static Library and Sample Xcode Project
 
-We're providing a [sample Xcode project](https://hackathon.hypno.com/tbd) to get up and running quickly with `libhypno` in a working demo app that can be built via Xcode. We recommend starting with this if you're building an iOS app for this challenge. If you want to use the cloud API instead, skip this section.
+We're providing a [sample Xcode project](https://hackathon.hypno.com/tbd) to get up and running quickly with `libhypno` in a working demo app that can be built with Xcode. We recommend starting with this if you're building an iOS app for this challenge. If you want to use the cloud API instead, skip this section.
 
-You can also add the `libhypno` static library an existing iOS Xcode project. To do this, [download it here](https://hackathon.hypno.com/hypno/libhypno.tar.gz) and follow these instructions:
+You can also add the `libhypno` static library to an existing iOS Xcode project. To do this, [download it here](https://hackathon.hypno.com/hypno/libhypno.tar.gz) and follow these instructions:
 
 #### Building
 
