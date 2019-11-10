@@ -10,7 +10,7 @@ In this challenge, Hypno invites the developer community to its [instant camera 
 
 The winning team will be awarded $1500 cash at Capitol Royale.
 
-All developers who integrate our API into any of the challenges will receive a limited-edition reflective Hypno sweaty — and a VIP invite to Hypno Happy Hour.
+All developers who integrate our API into any of the challenges will receive a limited-edition reflective Hypno long sleeve tee  — and a VIP invite to Hypno Happy Hour.
 
 ## Thought Starters
 
@@ -34,7 +34,7 @@ _Solution:_ Develop an app where you can directly challenge your friends to make
 
 The Hypno API is used to programmatically sequence and process video. The input to the API is video and other media assets, plus a script that defines how these are remixed to generate the output video.
 
-A core component of the Hypno Platform is the `libhypno` iOS/MacOS software library. In addition to providing the library itself, we're providing two convenient ways to leverage it: an iOS static library \(with sample Xcode project\) and a cloud API.
+We're providing two convenient ways to leverage the Hypno Platform: an iOS static library called `libhypno` \(with sample Xcode project\) and the Hypno Cloud API.
 
 ![](../.gitbook/assets/messages-image-2594241386.png)
 
@@ -47,8 +47,6 @@ Hypno scripts are written in javascript and we provide an IDE called Nyx for aut
 [Tutorial scripts](https://github.com/HYPERHYPER/nyx-tutorials/tree/master/api-v2) covering the basics, plus some more interesting examples. Clone the repository and double click on the .nyxproj files to open tutorials. Stick to the newer api-v2 scripts.
 
 [Nyx / Hypno script API documentation](https://hackathon.hypno.com/hypno/doc/modules/_hypno_.hypno.html)
-
-### 
 
 ### Libhypno Static Library and Sample Xcode Project
 
