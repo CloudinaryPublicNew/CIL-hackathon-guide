@@ -76,3 +76,7 @@
 
 * [ConsenSys Hackathon Developer Guide](consensys/consensys-hackathon-developer-guide.md)
 
+## Hypno
+
+* [Hypno Challenge and Documentation](hypno/hypno-challenge-and-documentation.md)
+

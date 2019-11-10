@@ -1,4 +1,4 @@
-# Hypno Challenge
+# Hypno Challenge and Documentation
 
 We believe the future of music is highly visual — a future where music is seen, not just heard.
 
@@ -36,7 +36,7 @@ The Hypno API is used to programmatically sequence and process video. The input 
 
 A core component of the Hypno Platform is the `libhypno` iOS/MacOS software library. In addition to providing the library itself, we're providing two convenient ways to leverage it: an iOS framework \(with sample Xcode project\) and a cloud API.
 
-![](../../.gitbook/assets/messages-image-2594241386%20%281%29.png)
+![](../.gitbook/assets/messages-image-2594241386.png)
 
 Hypno scripts are written in javascript and we provide an IDE called Nyx for authoring and previewing these scripts.
 
