@@ -97,24 +97,3 @@ Downloads the finished video file.
 
 `http://tbd.hypno.com:5000/jobs/5ce88c6008d52fc3d2050413/file`
 
-### Libhypno
-
-If you want to use the `libhypno` library directly, [you can download it here](https://hackathon.hypno.com/hypno/libhypno.tar.gz).
-
-#### Building
-
-1. `Under Build Settings`/`Apple Clang - Language - C++` set `C++ Language Dialect` to GNU++17 \(libhypno makes use of c++17 features\).
-2. `Under Build Settings`/`Search Paths` add an entry in `Header Search Paths` to `path/to/libhypno folder` example: `$(PROJECT_DIR)/vendor` if you have a folder in your project directory called vendor with a libhypno folder inside it.
-3. `Under Build Phases`/`Link Binary With Libraries` add `+` or drag and drop `libhypno.a` static library from your `libhypno` folder.
-4. `Under Build Phases`/`Link Binary With Libraries` add `AVFoundation.framework`, `CoreMedia.framework`, and `CoreServices.framework`.
-
-#### Using
-
-1. Change your App Delegate file's extension too `.mm` \(libhypno makes use of c++\).
-2. `#import <libhypno/hypno.h>` inside your App Delegate file.
-3. Inside your `application:didFinishLaunchingWithOptions:`method add a call to initialize the library `hypno::Platform::initialize();`
-4. Inside your `applicationWillTerminate:` method add a call to shutdown the library `hypno::Platform::shutdown();`
-5. Declare a property `@property (nonatomic, assign) std::shared_ptr<hypno::Video> video;`
-6. `@synthesize video;`
-7. Create your first hypno `video = hypno::Video::create ({ "path/to/JavaScript file", { path/to/main video file } });`
-
