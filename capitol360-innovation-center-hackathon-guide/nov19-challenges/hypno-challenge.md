@@ -30,7 +30,7 @@ _Challenge 3:_ Dance challenge videos are a fun way to go viral. Wouldn’t they
 
 _Solution:_ Develop an app where you can directly challenge your friends to make a dance video using the song of your choice. After everyone submits their video, each person in your group will vote on the winner. A leaderboard keeps track of who’s winning amongst your friends and other friend groups around the world.
 
-## Documentation
+## Developer Documentation
 
 The Hypno API is used to programmatically sequence and process video. The input to the API is video and other media assets, plus a script that defines how these are remixed to generate the output video.
 

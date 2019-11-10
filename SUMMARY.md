@@ -78,5 +78,5 @@
 
 ## Hypno
 
-* [Hypno Challenge and Documentation](hypno/hypno-challenge-and-documentation.md)
+* [Hypno Challenge and Developer Documentation](hypno/hypno-challenge-and-documentation.md)
 
