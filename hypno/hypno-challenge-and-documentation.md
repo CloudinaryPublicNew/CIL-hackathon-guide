@@ -34,7 +34,7 @@ _Solution:_ Develop an app where you can directly challenge your friends to make
 
 The Hypno API is used to programmatically sequence and process video. The input to the API is video and other media assets, plus a script that defines how these are remixed to generate the output video.
 
-A core component of the Hypno Platform is the `libhypno` iOS/MacOS software library. In addition to providing the library itself, we're providing two convenient ways to leverage it: an iOS framework \(with sample Xcode project\) and a cloud API.
+A core component of the Hypno Platform is the `libhypno` iOS/MacOS software library. In addition to providing the library itself, we're providing two convenient ways to leverage it: an iOS static library \(with sample Xcode project\) and a cloud API.
 
 ![](../.gitbook/assets/messages-image-2594241386.png)
 
@@ -48,11 +48,30 @@ Hypno scripts are written in javascript and we provide an IDE called Nyx for aut
 
 [Nyx / Hypno script API documentation](https://hackathon.hypno.com/hypno/doc/modules/_hypno_.hypno.html)
 
-### Hypno.framework and Sample Xcode Project
+### 
 
-`Hypno.framework` is the iOS framework for `libhypno` that can be added to any iOS Xcode project. You can [download it here](https://hackathon.hypno.com/tbd).
+### Libhypno Static Library and Sample Xcode Project
 
-You can also [download a sample Xcode project](https://hackathon.hypno.com/tbd) to get up and running quickly with `Hypno.framework` with a working demo app you can build via github. We recommend starting with this if you're building an iOS app for this challenge.
+We're providing a [sample Xcode project](https://hackathon.hypno.com/tbd) to get up and running quickly with `libhypno` in a working demo app that can be built via Xcode. We recommend starting with this if you're building an iOS app for this challenge. If you want to use the cloud API instead, skip this section.
+
+You can also add the `libhypno` static library an existing iOS Xcode project. To do this, [download it here](https://hackathon.hypno.com/hypno/libhypno.tar.gz) and follow these instructions:
+
+#### Building
+
+1. `Under Build Settings`/`Apple Clang - Language - C++` set `C++ Language Dialect` to GNU++17 \(libhypno makes use of c++17 features\).
+2. `Under Build Settings`/`Search Paths` add an entry in `Header Search Paths` to `path/to/libhypno folder` example: `$(PROJECT_DIR)/vendor` if you have a folder in your project directory called vendor with a libhypno folder inside it.
+3. `Under Build Phases`/`Link Binary With Libraries` add `+` or drag and drop `libhypno.a` static library from your `libhypno` folder.
+4. `Under Build Phases`/`Link Binary With Libraries` add `AVFoundation.framework`, `CoreMedia.framework`, and `CoreServices.framework`.
+
+#### Using
+
+1. Change your App Delegate file's extension too `.mm` \(libhypno makes use of c++\).
+2. `#import <libhypno/hypno.h>` inside your App Delegate file.
+3. Inside your `application:didFinishLaunchingWithOptions:`method add a call to initialize the library `hypno::Platform::initialize();`
+4. Inside your `applicationWillTerminate:` method add a call to shutdown the library `hypno::Platform::shutdown();`
+5. Declare a property `@property (nonatomic, assign) std::shared_ptr<hypno::Video> video;`
+6. `@synthesize video;`
+7. Create your first hypno `video = hypno::Video::create ({ "path/to/JavaScript file", { path/to/main video file } });`
 
 ### Hypno Cloud API
 
