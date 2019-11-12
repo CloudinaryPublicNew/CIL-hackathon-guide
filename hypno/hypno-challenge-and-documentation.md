@@ -42,17 +42,22 @@ Hypno scripts are written in javascript and we provide an IDE called Nyx for aut
 
 ### Nyx
 
-[Download Nyx \(MacOS only\)](https://cl.ly/1abe5c0e1adb/download/Nyx.zip) and extract to Applications \(or some directory other than Downloads\); right click and press Open \(recommended for initial launch\).
+[Download Nyx \(MacOS only\)](https://pro.hypno.com/r/nyx-hackathon) and extract to Applications \(or some directory other than Downloads\); right click and press Open \(recommended for initial launch\).
 
 [Tutorial scripts](https://github.com/HYPERHYPER/nyx-tutorials/tree/master/api-v2) covering the basics, plus some more interesting examples. Clone the repository and double click on the .nyxproj files to open tutorials. Stick to the newer api-v2 scripts.
 
 [Nyx / Hypno script API documentation](https://hackathon.hypno.com/hypno/doc/modules/_hypno_.hypno.html)
 
-### Hypno Static Library and Sample Xcode Project
+### Hypno Static Library and Example Xcode Project
 
-We're providing a [sample Xcode project](https://hackathon.hypno.com/tbd) to get up and running quickly with `libhypno` in a working demo app that can be built with Xcode. We recommend starting with this if you're building an iOS app for this challenge. If you want to use the cloud API instead, skip this section.
+We're providing a sample Xcode project to get up and running quickly with `libhypno` in a working demo app that can be built with Xcode. We recommend starting with this if you're building an iOS app for this challenge. If you want to use the cloud API instead, skip this section.
 
-You can also add the `libhypno` static library to an existing iOS Xcode project. To do this, [download it here](https://hackathon.hypno.com/hypno/libhypno.tar.gz) and follow these instructions:
+1. Download the libhypno [iOS Example Project](http://pro.hypno.com/r/hackathon-sample-project) and extract the archive anywhere on your system.  
+2. If you haven’t already done so, [download libhypno](http://pro.hypno.com/r/hackathon-libhypno) and extract the contents of the archive into /path/to/HYPNOApp \(iOS Example Project\)/vendor.  
+3. Open `HYPNOApp.xcodeproj` with Xcode.  
+4. Plug in your iOS device and build/run.
+
+Alternately, if you want to add the `libhypno` static library to an existing Xcode project, [download it](http://pro.hypno.com/r/hackathon-libhypno) and follow these instructions:
 
 #### Building
 
