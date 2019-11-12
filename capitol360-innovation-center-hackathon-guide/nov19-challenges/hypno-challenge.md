@@ -36,7 +36,7 @@ The Hypno API is used to programmatically sequence and process video. The input 
 
 We're providing two convenient ways to leverage the Hypno Platform: an iOS static library called `libhypno` \(with sample Xcode project\) and the Hypno Cloud API.
 
-![](../../.gitbook/assets/messages-image-2594241386%20%281%29.png)
+![](../../.gitbook/assets/messages-image-19917885%20%281%29.jpeg)
 
 Hypno scripts are written in javascript and we provide an IDE called Nyx for authoring and previewing these scripts.
 

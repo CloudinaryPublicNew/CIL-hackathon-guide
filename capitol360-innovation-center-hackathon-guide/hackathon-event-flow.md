@@ -36,7 +36,7 @@ _HACKERS_
 * UMG Sandbox
 * Ford, Connected Travel, Arrive, Ticketmaster, iHeart 
 * bandsintown
-* HYPNO
+* Hypno
 * TBD Bose + Spin / Dolby IO / Cloudinary Recap
 
 1:00PM – Welcome / Event Kick-off \(Studio A\)
