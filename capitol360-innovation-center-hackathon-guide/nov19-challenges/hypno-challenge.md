@@ -44,7 +44,9 @@ Hypno scripts are written in javascript and we provide an IDE called Nyx for aut
 
 [Download Nyx \(MacOS only\)](https://pro.hypno.com/r/nyx-hackathon) and extract to Applications \(or some directory other than Downloads\); right click and press Open \(recommended for initial launch\).
 
-[Tutorial scripts](https://github.com/HYPERHYPER/nyx-tutorials/tree/master/api-v2) covering the basics, plus some more interesting examples. Clone the repository and double click on the .nyxproj files to open tutorials. Stick to the newer api-v2 scripts.
+Two short [tutorial videos](https://instant.hypno.com/tutorials) to get acquainted with the Nyx UI. 
+
+[Tutorial scripts](https://github.com/HYPERHYPER/nyx-tutorials/tree/master/api-v2) covering the basics of writing Hypno scripts, plus some more interesting examples. Clone or download the repository and double click on the .nyxproj files to open tutorials. Stick to the newer api-v2 scripts.
 
 [Nyx / Hypno script API documentation](https://hackathon.hypno.com/hypno/doc/modules/_hypno_.hypno.html)
 
