@@ -1,8 +1,8 @@
 ---
-description: Please read below to understand more about Bandsintown's API
+description: Please read below to understand more about Bandsintown's challenge and API
 ---
 
-# Bandsintown API
+# Bandsintown Challenge
 
 
 
