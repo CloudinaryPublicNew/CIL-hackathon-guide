@@ -36,7 +36,7 @@ _HACKERS_
 
 10:00AM – Music Industry 101 \(Drew Thomas CMG\) \(Studio B\)
 
-10:30AM – API Workshops / Mentor Meetings \(Studio B\)
+10:00AM – API Workshops / Mentor Meetings \(Studio B\)
 
 * Hacker API Workshops
   * 10:00AM - Bose part 2 recap \(Nadine + Creator Tool presentation\) 
