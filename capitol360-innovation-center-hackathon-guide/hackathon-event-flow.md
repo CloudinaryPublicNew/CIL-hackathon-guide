@@ -16,7 +16,7 @@ Capitol Records Tower - 9th Floor + Gogerty Conference Rooms
 * 10:20AM - iOS workshop \(Bose\)
 * 10:40AM - Bose Creator Tool \(Matt + Charlie\)
 * 11:00AM - Spin
-* 11:15AM - HYPNO
+* 11:15AM - Hypno
 * 12:00 - bandsintown
 * 12:20 - Glitch
 
@@ -45,7 +45,7 @@ _HACKERS_
   * 10:30AM - Connected Travel / Arrive \(TBD is someone going over Ticketmaster and iHeart documentation?\)
   * 10:45AM - Dolby 
   * 10:55AM - bandsintown 
-  * 11:05AM - HYPNO
+  * 11:05AM - Hypno
   * 11:15AM - Glitch 
 
 11:30AM - Music Industry 101 \(Drew Thomas\) \(Studio B\)
