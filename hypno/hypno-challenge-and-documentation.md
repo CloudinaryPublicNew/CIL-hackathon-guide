@@ -40,7 +40,7 @@ We're providing two convenient ways to leverage the Hypno Platform: an iOS stati
 
 Hypno scripts are written in javascript and we provide an IDE called Nyx for authoring and previewing these scripts.
 
-### Nyx
+### Nyx IDE
 
 [Download Nyx \(MacOS only\)](https://pro.hypno.com/r/nyx-hackathon) and extract to Applications \(or some directory other than Downloads\); right click and press Open \(recommended for initial launch\).
 
