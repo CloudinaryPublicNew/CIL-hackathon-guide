@@ -12,10 +12,15 @@ Capitol Records Tower - 9th Floor + Gogerty Conference Rooms
 
 10:00am API Workshops 
 
-* Bose Unity Spatial Audio Workshop
-* Bose iOS Workshop 
-* Cloudinary Workshop
-* Dolby IO Workshop
+* 10:00AM - Unity Spatial \(Bose\)
+* 10:20AM - iOS workshop \(Bose\)
+* 10:40AM - Bose Creator Tool \(Matt + Charlie\)
+* 11:00AM - Spin
+* 11:15AM - HYPNO
+* 12:00 - bandsintown
+* 12:20 - Glitch
+
+12:00pm PIZZA
 
 1:00pm+ Office Hours / Brainstorm / Open Hacking
 
@@ -33,15 +38,23 @@ _HACKERS_
 
 10:30AM – API Workshops / Mentor Meetings \(Studio B\)
 
-* UMG Sandbox
-* Ford, Connected Travel, Arrive, Ticketmaster, iHeart 
-* bandsintown
-* Hypno
-* TBD Bose + Spin / Dolby IO / Cloudinary Recap
+* Hacker API Workshops
+  * 10:00AM - Bose part 2 recap \(Nadine + Creator Tool presentation\) 
+  * 10:10AM - Spin
+  * 10:20AM - SDL
+  * 10:30AM - Connected Travel / Arrive \(TBD is someone going over Ticketmaster and iHeart documentation?\)
+  * 10:45AM - Dolby 
+  * 10:55AM - bandsintown 
+  * 11:05AM - HYPNO
+  * 11:15AM - Glitch 
 
-1:00PM – Welcome / Event Kick-off \(Studio A\)
+11:30AM - Music Industry 101 \(Drew Thomas\) \(Studio B\)
 
-1:30PM – Idea Pitches / Hacking Commences \(Kimpton\)
+12:00PM - Idea Pitches / Team Formation \(Studio B\)
+
+12:30PM - Lunch / Hacking Commences \(Kimpton\) 
+
+1:00PM – Welcome Remarks \(Studio A\) _\(Optional\)_
 
 7:00 PM – Dinner \(Kimpton\)
 
