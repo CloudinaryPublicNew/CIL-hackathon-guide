@@ -27,5 +27,9 @@ This challenge is run in conjunction with **SPIN.** All hackers will receive $25
 * 2 teams will be awarded $5000 at Capitol Royale
 * The 2 winning teams will be awarded an additional $5000 each upon receipt of Bose certification and launch in either the iOS or Google Play App Store 90 days after completion of the Capitol Royale hackathon.
 
+Those who opt in to the **Guided Music Moments "SPIN" Scooter Tour** will also be eligible for Spin gifts bags inclusive of:
 
+First place team each get: $100 Spin ride credits, $100 Amazon gift card, Spin limited edition apparel, thermal flask, and notebook.
+
+Runner up team each get: $50 Spin ride credits, $50 Amazon gift card, Spin limited edition apparel, thermal flask, and notebook.
 
