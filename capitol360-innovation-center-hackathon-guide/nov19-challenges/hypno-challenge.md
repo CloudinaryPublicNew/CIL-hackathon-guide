@@ -121,5 +121,9 @@ Downloads the finished video file.
 
 Example:`https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
 
+### Support
 
+If you have any questions or run into issues, and can't find us on site, please reach out to [developer-support@hypno.com](mailto:developer-support@hypno.com) and we'll get back to you as soon as possible. 
+
+We also have a support slack channel. Email us at the address above if you'd like an invite.
 
