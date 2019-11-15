@@ -44,6 +44,8 @@ Hypno scripts are written in javascript and we provide an IDE called Nyx for aut
 
 [Download Nyx \(MacOS only\)](https://pro.hypno.com/r/nyx-hackathon) and extract to Applications \(or some directory other than Downloads\); right click and press Open \(recommended for initial launch\).
 
+[Download the demo script](https://cl.ly/c6c67a5a09b7/download/capitol-royale.zip) we're using for the API workshop.
+
 Two short [tutorial videos](https://instant.hypno.com/tutorials) to get acquainted with the Nyx UI. 
 
 [Tutorial scripts](https://github.com/HYPERHYPER/nyx-tutorials/tree/master/api-v2) covering the basics of writing Hypno scripts, plus some more interesting examples. Clone or download the repository and double click on the .nyxproj files to open tutorials. Stick to the newer api-v2 scripts.
@@ -94,7 +96,7 @@ This will return a package id that can be used for subsequent renders using that
 
 Create new job with a specified package.
 
-Example: `curl -F "camera=@default-002.mp4" -v https://cloud.hypno.com/jobs?packageId=5ce8889e08d52fc337350233`
+Example: `curl -F "camera=@input.mp4" -v https://cloud.hypno.com/jobs?packageId=5ce8889e08d52fc337350233`
 
 This will return a job id that can be used for downloading complete renders using that package.
 
