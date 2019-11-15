@@ -86,7 +86,7 @@ The Hypno Cloud API gives developers a way to leverage the power of the Hypno AP
 
 Create new package. A package is a zip file with a hypno script and supporting assets, usually created with Nyx.
 
-Example: `curl -F "package=@MyScript.zip" -v http://tbd.hypno.com:5000/packages`
+Example: `curl -F "package=@MyScript.zip" -v https://cloud.hypno.com/packages`
 
 This will return a package id that can be used for subsequent renders using that package.
 
@@ -94,7 +94,7 @@ This will return a package id that can be used for subsequent renders using that
 
 Create new job with a specified package.
 
-Example: `curl -F "camera=@default-002.mp4" -v http://tbd.hypno.com:5000/jobs?packageId=5ce8889e08d52fc337350233`
+Example: `curl -F "camera=@default-002.mp4" -v https://cloud.hypno.com/jobs?packageId=5ce8889e08d52fc337350233`
 
 This will return a job id that can be used for downloading complete renders using that package.
 
@@ -102,5 +102,5 @@ This will return a job id that can be used for downloading complete renders usin
 
 Downloads the finished video file.
 
-`http://tbd.hypno.com:5000/jobs/5ce88c6008d52fc3d2050413/file`
+`https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
 
