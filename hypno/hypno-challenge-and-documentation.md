@@ -98,9 +98,24 @@ Example: `curl -F "camera=@default-002.mp4" -v https://cloud.hypno.com/jobs?pack
 
 This will return a job id that can be used for downloading complete renders using that package.
 
-**`GET /jobs/{id}/file`**
+**`GET /jobs/{id}`**
+
+Gets the status of the job.
+
+Example: `https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
+
+| Status Code | Status Message |
+| :--- | :--- |
+| 0 | Unknown |
+| 1 | Waiting |
+| 2 | Exporting |
+| 3 | Completed |
+| 4 | Failed |
+| 5 | Cancelled |
+
+**`GET /media/{id}`**
 
 Downloads the finished video file.
 
-`https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
+Example:`https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
 
