@@ -34,7 +34,7 @@ _Solution:_ Develop an app where you can directly challenge your friends to make
 
 The Hypno API is used to programmatically sequence and process video. The input to the API is video and other media assets, plus a script that defines how these are remixed to generate the output video.
 
-We're providing two convenient ways to leverage the Hypno Platform: an iOS static library called `libhypno` \(with sample Xcode project\) and the Hypno Cloud API.
+We're providing two convenient ways to leverage the Hypno Platform: an iOS static library called `libhypno` \(with sample Xcode project\) and the Hypno Cloud API Beta.
 
 ![](../.gitbook/assets/messages-image-19917885.jpeg)
 
@@ -80,7 +80,7 @@ Alternately, if you want to add the `libhypno` static library to an existing Xco
 6. `@synthesize video;`
 7. Create your first hypno `video = hypno::Video::create ({ "path/to/JavaScript file", { path/to/main video file } });`
 
-### Hypno Cloud API
+### Hypno Cloud API Beta
 
 The Hypno Cloud API gives developers a way to leverage the power of the Hypno API from any online application. You won't get the instant playback capability provided by the iOS library, but the same scripts can be used for both and will generate the same output.
 
