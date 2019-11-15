@@ -102,7 +102,7 @@ This will return a job id that can be used for downloading complete renders usin
 
 Gets the status of the job.
 
-Example: `https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
+Example: `https://cloud.hypno.com/jobs/5ce88c6008d52fc3d2050413`
 
 | Status Code | Status Message |
 | :--- | :--- |
