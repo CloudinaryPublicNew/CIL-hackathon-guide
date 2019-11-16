@@ -80,6 +80,8 @@ Alternately, if you want to add the `libhypno` static library to an existing Xco
 6. `@synthesize video;`
 7. Create your first hypno `video = hypno::Video::create ({ "path/to/JavaScript file", { path/to/main video file } });`
 
+`libhypno` objective-c wrapper\(s\) can be found [here](https://gist.github.com/jacobsologub/d69336988f7def21e13a66a2b01e8a18).
+
 ### Hypno Cloud API Beta
 
 The Hypno Cloud API gives developers a way to leverage the power of the Hypno API from any online application. You won't get the instant playback capability provided by the iOS library, but the same scripts can be used for both and will generate the same output.
