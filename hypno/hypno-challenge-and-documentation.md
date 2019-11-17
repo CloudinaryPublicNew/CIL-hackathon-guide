@@ -80,6 +80,8 @@ Alternately, if you want to add the `libhypno` static library to an existing Xco
 6. `@synthesize video;`
 7. Create your first hypno `video = hypno::Video::create ({ "path/to/JavaScript file", { path/to/main video file } });`
 
+#### Objective-c Wrapper
+
 `libhypno` objective-c wrapper\(s\) can be found [here](https://gist.github.com/jacobsologub/d69336988f7def21e13a66a2b01e8a18).
 
 ### Hypno Cloud API Beta
@@ -88,9 +90,9 @@ The Hypno Cloud API gives developers a way to leverage the power of the Hypno AP
 
 **`POST /packages`**
 
-Create new package. A package is a zip file with a hypno script and supporting assets, usually created with Nyx.
+Create new package. A package is a zip file with a hypno script and supporting assets, usually created with Nyx \(using the "Share project" button in the upper right\).
 
-Example: `curl -F "package=@MyScript.zip" -v https://cloud.hypno.com/packages`
+Example: `curl -F "package=@NyxPackage.zip" https://cloud.hypno.com/packages`
 
 This will return a package id that can be used for subsequent renders using that package.
 
@@ -98,7 +100,7 @@ This will return a package id that can be used for subsequent renders using that
 
 Create new job with a specified package.
 
-Example: `curl -F "camera=@input.mp4" -v https://cloud.hypno.com/jobs?packageId=5ce8889e08d52fc337350233`
+Example: `curl -F "camera=@input.mp4" https://cloud.hypno.com/jobs?packageId=5ce8889e08d52fc337350233`
 
 This will return a job id that can be used for downloading complete renders using that package.
 
@@ -106,7 +108,7 @@ This will return a job id that can be used for downloading complete renders usin
 
 Gets the status of the job.
 
-Example: `https://cloud.hypno.com/jobs/5ce88c6008d52fc3d2050413`
+Example:`curl https://cloud.hypno.com/jobs/5ce88c6008d52fc3d2050413`
 
 | Status Code | Status Message |
 | :--- | :--- |
@@ -121,7 +123,7 @@ Example: `https://cloud.hypno.com/jobs/5ce88c6008d52fc3d2050413`
 
 Downloads the finished video file.
 
-Example:`https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
+Example:`curl -o output.mp4 https://cloud.hypno.com/media/5ce88c6008d52fc3d2050413`
 
 ### Support
 
